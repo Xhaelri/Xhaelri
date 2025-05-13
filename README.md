@@ -3,6 +3,8 @@
 ### Front-End Developer
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xhaelri&label=Profile%20views&color=0e75b6&style=flat" alt="xhaelri" /> </p>
+
 
 ## 👋 **Profile**
 
@@ -86,10 +88,10 @@ I'm a Front-End Developer who loves creating web apps that everyone can enjoy an
 
 ---
 
-### Connect with Me
+## 🌐 **Connect with me**
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/xhaelri/" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-saleh17/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn logo"  />
   </a>
 </div>
