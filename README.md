@@ -3,8 +3,8 @@
 ### Front-End Developer
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xhaelri&label=Profile%20views&color=0e75b6&style=flat" alt="xhaelri" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xhaelri&label=Profile%20views&color=0e75b6&style=flat" alt="xhaelri" /> </p>
 
 ## 👋 **Profile**
 
@@ -33,6 +33,7 @@ I'm a Front-End Developer who loves creating web apps that everyone can enjoy an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="javascript logo"  />
@@ -59,9 +60,10 @@ I'm a Front-End Developer who loves creating web apps that everyone can enjoy an
 ### **Information Technology Institute (ITI)**
 
 - **Program**: Front-End and Cross platform mobile, ITP Program
-- **Details**:  
-  •Comprehensive training in front-end development tools and technologies, including HTML, CSS, JavaScript, React, and UI/UX principles.
-  •Hands-on projects focusing on responsive design, interactive user interfaces, and performance optimization.
+- **Details**:
+  - Completed a 4-month intensive Front-End & Cross-Platform track at ITI, focused on modern web and mobile development. Gained hands-on experience with technologies like Next.js, React, React Native, Redux, TypeScript, and more. Developed strong skills in building responsive, scalable applications and working in agile team environments.
+- Served as track leader, where I honed my leadership, organization, and communication skills.
+- Successfully delivered a graduation project (Herafi), a platform designed to connect clients with skilled handymen through a seamless, centralized experience.-
 
 ### **Faculty of Law , Mansoura University**
 
@@ -99,6 +101,6 @@ I'm a Front-End Developer who loves creating web apps that everyone can enjoy an
 
 Feel free to explore my repositories and reach out for collaborations or questions! 🚀
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Xhaelri/Xhaelri/blob/output/snake.svg" />
-</p>
+</p> -->
