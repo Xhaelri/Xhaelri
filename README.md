@@ -32,9 +32,9 @@ I'm a Full-Stack Developer who loves creating web apps that everyone can enjoy a
 <div align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" height="40" alt="nextjs logo"  />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" height="40" alt="nextjs logo"  />
     <img width="12" />
-  <img src="	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="40" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" height="40" alt="javascript logo"  />
   <img width="12" />
