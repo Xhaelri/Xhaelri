@@ -1,6 +1,6 @@
 # Ali Saleh
 
-### Front-End Developer
+### Full-Stack Developer
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## 👋 **Profile**
 
-I'm a Front-End Developer who loves creating web apps that everyone can enjoy and use easily. My goal is to design websites that look great, feel intuitive, and work seamlessly across all devices. I focus on accessibility and simplicity, making sure each user has a positive and engaging experience.
+I'm a Full-Stack Developer who loves creating web apps that everyone can enjoy and use easily. My goal is to design websites that look great, feel intuitive, and work seamlessly across all devices. I focus on accessibility and simplicity, making sure each user has a positive and engaging experience.
 
 ---
 
@@ -54,40 +54,6 @@ I'm a Front-End Developer who loves creating web apps that everyone can enjoy an
 </div>
 
 <br/>
-
-## 🎓 **Education**
-
-### **Information Technology Institute (ITI)**
-
-- **Program**: Front-End and Cross platform mobile, ITP Program
-- **Details**:
-  - Completed a 4-month intensive Front-End & Cross-Platform track at ITI, focused on modern web and mobile development. Gained hands-on experience with technologies like Next.js, React, React Native, Redux, TypeScript, and more. Developed strong skills in building responsive, scalable applications and working in agile team environments.
-- Served as track leader, where I honed my leadership, organization, and communication skills.
-- Successfully delivered a graduation project (Herafi), a platform designed to connect clients with skilled handymen through a seamless, centralized experience.-
-
-### **Faculty of Law , Mansoura University**
-
-- **Degree**: Bachelor's in Law
-- **Location**: Mansoura, Egypt
-- **Details**:
-  - Cumulative Grade: Very Good With Honors
-
----
-
-## 📜 **Certificates**
-
-- **Mordern JavaScript ES6** — Modern JavaScript: ES6 and beyond | MaharaTech-ITI
-- **JavaScript** — JavaScript | MaharaTech-ITI
-- **Database Fundamentals - Python Programming Basics** — Database Fundamentals | MaharaTech-ITI
-
----
-
-## 🌐 **Languages**
-
-- **Arabic**: Native
-- **English**: Intermediate
-
----
 
 ## 🌐 **Connect with me**
 
