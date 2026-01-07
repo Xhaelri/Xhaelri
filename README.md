@@ -12,18 +12,6 @@ I'm a Full-Stack Developer who loves creating web apps that everyone can enjoy a
 
 ---
 
-<br/>
-
-### GitHub Stats
-
-<br/>
-<div align="center" style="display: flex; justify-content: space-around; align-items: stretch; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=xhaelri&show_icons=true&count_private=true&theme=dracula" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xhaelri&show_icons=true&theme=dracula&layout=compact" height="180px" />
-</div>
-
-<br/>
-
 ## 🛠️ **Technical Skills**
 
 ### Technologies & Tools I Use
